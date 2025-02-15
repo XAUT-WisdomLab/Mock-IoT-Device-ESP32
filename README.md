@@ -65,3 +65,7 @@
 ## 使用
 
 参考：[使用MQTT接入阿里云物联网平台](https://blog.duruofu.top/docs/03.Embedded/IOT/MQTT/%E7%89%A9%E8%81%94%E7%BD%91%E5%B9%B3%E5%8F%B0%E6%8E%A5%E5%85%A5/MQTT%E6%8E%A5%E5%85%A5%E9%98%BF%E9%87%8C%E4%BA%91%E7%89%A9%E8%81%94%E7%BD%91%E5%B9%B3%E5%8F%B0.html)
+
+## 附件
+
+阿里云格式的物模型：[model.zip](attachments/model.zip)
